@@ -62,11 +62,14 @@ h3 {
 .logo {
     width: 20%;
     height: 70%;
-    margin-top: -65px;
+    margin-top: -120px;
     text-align: center;
 }
 .logo a{ 
     width: 100%;
+}
+.logo a img{
+    width: 108%;
 }
 
     .header_menu{
@@ -79,7 +82,7 @@ h3 {
     }
     .header_menu ul li{
         float: left;
-        padding: 19px 30px;
+        padding: 19px 25px;
     }
     .header_menu ul li a{
         font-size: 20px;
